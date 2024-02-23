@@ -63,4 +63,8 @@ p {
    height: 30px;
  }
  
+ #input-age-verification input[type="checkbox"]{
+   height: 75;
+ }
+ 
 }
