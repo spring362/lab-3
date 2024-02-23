@@ -27,7 +27,7 @@ p {
 
 #input-age-verification label{
   background-color: #808080;
-  width: 60%;
+  width: 50%;
   height: 40px;
   margin-left: 150px;
   margin-top: 15px;
@@ -46,7 +46,7 @@ p {
 #submit{
   width: 80%;
   text-align: center;
-  
+  font-family: "Oswald", sans-serif;
 }
 
 @media screen and (max-width: 650px){
@@ -55,6 +55,12 @@ p {
  }
  
  h1{
- width: 90%;
+   width: 90%;
+   font-size: 30px;
  }
+ #input-age-verification label{
+   font-size: 20px;
+   height: 30px;
+ }
+ 
 }
